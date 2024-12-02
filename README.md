@@ -71,7 +71,7 @@ endmodule
 
 
 **Output/TIMING Waveform**
-![Uploading WhatsApp Image 2024-12-02 at 9.11.18 PM.jpeg…]()
+![WhatsApp Image 2024-12-02 at 9 11 18 PM](https://github.com/user-attachments/assets/d7153b9a-09ee-44d7-ac9b-cbfb045f4fca)
 
 
 **Result:**
